@@ -1,2 +1,2 @@
 # QuizzesSwift
-Quizzes App using Swift UI
+Quizzes App using Swift UI with XCode 11
